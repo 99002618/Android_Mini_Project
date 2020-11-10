@@ -1,1 +1,1 @@
-# Android_Mini_Project
+# Genesis_Android_Mini_Project
