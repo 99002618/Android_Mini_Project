@@ -1,1 +1,1 @@
-This has Unit and Integration test plan 
+This file contains Unit and Integration test plan 
