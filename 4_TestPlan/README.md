@@ -1,1 +1,1 @@
-This has low level and high level test plan 
+This has Unit and Integration test plan 
