@@ -21,11 +21,11 @@
     <fragment
         android:id="@+id/url"
         android:name="com.example.mini.URL"
-        android:label="fragment_u_r_l"
+        android:label="Search"
         tools:layout="@layout/fragment_u_r_l" />
     <fragment
         android:id="@+id/player"
         android:name="com.example.mini.Player"
-        android:label="fragment_player"
+        android:label="Player"
         tools:layout="@layout/fragment_player" />
 </navigation>
