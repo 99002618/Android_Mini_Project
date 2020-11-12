@@ -1,1 +1,1 @@
-This has low level and high level test plan 
+This file contains Unit and Integration test plan 
